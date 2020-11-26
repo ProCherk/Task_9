@@ -40,6 +40,7 @@ namespace Task_9
 
             test = null;
             test = i => (i / 9 == 0 );
+
             Massives.MyCalculation(a.Mass, test);
             Console.WriteLine("------------------");
         }
